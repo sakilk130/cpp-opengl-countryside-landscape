@@ -5,8 +5,9 @@
   3. Nirzon, Md. Ahafid Zaman
   4. Barman, Prosenjite
   ### Features:
-    A countryside view has been be drawn with rivers, mountains and sky. The project displays a rural landscape in both 
-    day and night time. Children playing in the     background will be created in the scene. The project features include: 
+    A countryside view has been be drawn with rivers, mountains and sky. The project displays a 
+    rural landscape in both day and night time. Children playing in the background will be created 
+    in the scene. The project features include: 
     • Moving boats 
     • Moving clouds 
     • Moving plane
